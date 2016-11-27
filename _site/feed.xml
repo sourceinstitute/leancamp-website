@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leancamp</title>
+    <description>Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Nov 2016 17:43:55 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2016 17:43:55 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>1st Leancamp Brussels</title>
+        <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
+
+&lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/brussels.html</link>
+        <guid isPermaLink="true">http://localhost:4000/brussels.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>3rd LeanCamp Frankfurt</title>
+        <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
+
+&lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/frankfurt.html</link>
+        <guid isPermaLink="true">http://localhost:4000/frankfurt.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>1st Leancamp Amsterdam</title>
+        <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
+
+&lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/amsterdam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/amsterdam.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>1st Leancamp Teheran</title>
+        <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
+
+&lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Aug 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/teheran.html</link>
+        <guid isPermaLink="true">http://localhost:4000/teheran.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>5th Leancamp Stuttgart</title>
+        <description>&lt;h2 id=&quot;leancamp-stuttgart--deine-startup-un-konferenz&quot;&gt;5. Leancamp Stuttgart – Deine Startup Un-Konferenz&lt;/h2&gt;
+&lt;p&gt;Lerne ‘Lean’, wie du als Gründer deine Leidenschaft, Zeit und Geld in Produkte investierst, die wirklich gebraucht werden; in Dinge, die Menschen begeistern!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Das Leancamp ist die Un-Konferenz auf der sich Gründungs-interessierte, Startups und Unternehmen ein Tag lang über Erfahrungen und neue Methoden im Bereich Entrepreneurship, Innovation, (Lean) Startup und Wachstum intensiv austauschen &amp;amp; wertvolles Feedback erhalten – mit dem Ziel, deine Idee oder Startup schneller auf das nächste Level zu bringen!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/stuttgart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stuttgart.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2nd Leancamp Rotterdam</title>
+        <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
+
+&lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/rotterdam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rotterdam.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
