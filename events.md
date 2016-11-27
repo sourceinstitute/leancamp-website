@@ -2,6 +2,7 @@
 layout: page
 cover: '/img/Stuttgart3_022.jpg'
 navigation_title: Events
+permalink: /events/
 ---
 
 
