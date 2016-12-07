@@ -3,9 +3,9 @@ layout: post
 
 #event information
 title:  "3rd LeanCamp Frankfurt"
-cover: "/img/LeanCamp2016-01464.jpg"
+cover: "/img/leancampfrm.jpg"
 scheduled: true
-date:   2016-11-25
+date:  2016-11-25
 start_time: "13:30"
 end_time: "18:00"
 
