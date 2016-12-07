@@ -14,3 +14,11 @@ Whether you are looking to build a startup community in your local city, or inte
 * Join a family of passionate, capable, and connected Leancamp Leaders around the world.
 * Meet amazing people.
 * Potential to travel around the world as a Leancamp Facilitator.
+
+## Resources
+
+[Leancamp Way of Working](/organizers/way/)
+
+[Organizers Guide](/organizers/guide)
+
+[Milestones and checklist](/organizers/milestones)

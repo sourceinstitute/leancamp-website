@@ -270,12 +270,19 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    h1 {
+        @include media-query($on-palm) {
+            font-size: 1.5em;
+        }
+    }
     h2 {
         font-size: 32px;
         color: $brand-color;
         @include media-query($on-laptop) {
             font-size: 28px;
+        }
+        @include media-query($on-palm) {
+            font-size: 1.5em;
         }
     }
 
@@ -285,12 +292,18 @@
         @include media-query($on-laptop) {
             font-size: 22px;
         }
+        @include media-query($on-palm) {
+            font-size: 1.5em;
+        }
     }
 
     h4 {
         font-size: 20px;
         @include media-query($on-laptop) {
             font-size: 18px;
+        }
+        @include media-query($on-palm) {
+            font-size: 1.5em;
         }
     }
 }
@@ -425,13 +438,12 @@
     margin-top:20px;
 }
 
-.ambassador{
+.pambassador{
   position: absolute;
   height: 120px;
   width: 120px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+
   border-radius: 6px;
   background-size: cover;
   box-shadow: 1px 1px 2px 1px #C4C4C4;
@@ -445,4 +457,48 @@
   font-style: normal;
   font-size: 30px;
   font-weight: 500;
+}
+
+.checkmarks
+{
+  ul, {
+    list-style-type:none;
+    li:before {
+      content:"\2713\0020";
+    }
+  }
+
+}
+.size-iframe{
+  height: 400px;
+  @include media-query($on-palm) {
+    height: 200px;
+  }
+  width:100%;
+  margin:0px;
+  border:0px
+}
+.ambassador {
+    max-width: 400px;
+    margin: 50px auto 0;
+    @media (min-width: 992px) {
+        margin: 20px auto 0;
+    }
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.ambassador-img{
+    height: 150px;
+    @include media-query($on-palm) {
+      height: 100px;
+    }
+    vertical-align:top;
+    border-radius: 6px;
+    background-size: cover;
+    box-shadow: 1px 1px 2px 1px #C4C4C4;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }

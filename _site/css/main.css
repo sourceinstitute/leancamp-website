@@ -355,23 +355,35 @@ pre {
 
 .post-content {
   margin-bottom: 30px; }
+  @media screen and (max-width: 600px) {
+    .post-content h1 {
+      font-size: 1.5em; } }
   .post-content h2 {
     font-size: 32px;
     color: #ed217c; }
     @media screen and (max-width: 1200px) {
       .post-content h2 {
         font-size: 28px; } }
+    @media screen and (max-width: 600px) {
+      .post-content h2 {
+        font-size: 1.5em; } }
   .post-content h3 {
     font-size: 26px;
     color: #ed217c; }
     @media screen and (max-width: 1200px) {
       .post-content h3 {
         font-size: 22px; } }
+    @media screen and (max-width: 600px) {
+      .post-content h3 {
+        font-size: 1.5em; } }
   .post-content h4 {
     font-size: 20px; }
     @media screen and (max-width: 1200px) {
       .post-content h4 {
         font-size: 18px; } }
+    @media screen and (max-width: 600px) {
+      .post-content h4 {
+        font-size: 1.5em; } }
 
 .clearfix:before, .clearfix:after {
   content: " ";
@@ -480,13 +492,11 @@ pre {
   margin-bottom: 0px;
   margin-top: 20px; }
 
-.ambassador {
+.pambassador {
   position: absolute;
   height: 120px;
   width: 120px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   border-radius: 6px;
   background-size: cover;
   box-shadow: 1px 1px 2px 1px #C4C4C4; }
@@ -498,6 +508,42 @@ pre {
   font-style: normal;
   font-size: 30px;
   font-weight: 500; }
+
+.checkmarks ul {
+  list-style-type: none; }
+  .checkmarks ul li:before {
+    content: "\2713\0020"; }
+
+.size-iframe {
+  height: 400px;
+  width: 100%;
+  margin: 0px;
+  border: 0px; }
+  @media screen and (max-width: 600px) {
+    .size-iframe {
+      height: 200px; } }
+
+.ambassador {
+  max-width: 400px;
+  margin: 50px auto 0; }
+  @media (min-width: 992px) {
+    .ambassador {
+      margin: 20px auto 0; } }
+  .ambassador p {
+    margin-bottom: 0; }
+
+.ambassador-img {
+  height: 150px;
+  vertical-align: top;
+  border-radius: 6px;
+  background-size: cover;
+  box-shadow: 1px 1px 2px 1px #C4C4C4;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px; }
+  @media screen and (max-width: 600px) {
+    .ambassador-img {
+      height: 100px; } }
 
 /**
  * Syntax highlighting styles
