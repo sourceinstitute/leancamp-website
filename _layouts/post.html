@@ -113,6 +113,7 @@ layout: default
         <p class="event-h3"><i class="fa fa-map-marker fa-lg" style="vertical-align: middle;"></i> Venue</p>
         {% for detail in page.venue %}
         <p class="event-h3"><strong>{{ detail.name }}</strong></p>
+        <img src="{{ detail.picture }}"></img>
         <p>{{ detail.description }}</p>
         <a class="panel" href="{{ detail.link }}">Open Location in Google Maps</a>
         {% endfor %}
@@ -133,6 +134,24 @@ layout: default
           <img class="ambassador-img" src="{{ currentAmbassador.photo }}">
           <h2>{{ currentAmbassador.name }}</h2>
           <p>{{ currentAmbassador.bio }}</p>
+        </div>
+      </div>
+    {% endfor %}
+    {% endif %}
+    </div>
+    {% if page.organisers %}
+    <div class="row">
+      <div class="col-sm-12">
+        <h1 class="post-title" itemprop="name headline">Organisers</h1>
+      </div>
+    </div>
+    <div class="row">
+    {% for organiser in page.organisers %}
+    {% assign currentOrganiser = site.data.organisers.[organiser] %}
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="ambassador">
+          <img class="ambassador-img" src="{{ currentOrganiser.photo }}">
+          <h2>{{ currentOrganiser.name }}</h2>
         </div>
       </div>
     {% endfor %}
