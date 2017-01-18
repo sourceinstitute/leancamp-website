@@ -4,10 +4,10 @@
     <title>Leancamp</title>
     <description>Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
 </description>
-    <link>http://dev.leancamp.net/</link>
-    <atom:link href="http://dev.leancamp.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 22:18:40 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 22:18:40 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Jan 2017 15:38:20 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Jan 2017 15:38:20 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -19,9 +19,9 @@
 &lt;p&gt;Leancamp is organized in cooperation with Lean Startup Circle Brussels
 &lt;img src=&quot;/img/LeanStartupCircleBXL_Logo.jpg&quot; alt=&quot;LSC BXL logo&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://dev.leancamp.net/brussels.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/brussels.html</guid>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/brussels.html</link>
+        <guid isPermaLink="true">http://localhost:4000/brussels.html</guid>
         
         
       </item>
@@ -33,8 +33,8 @@
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://dev.leancamp.net/frankfurt.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/frankfurt.html</guid>
+        <link>http://localhost:4000/frankfurt.html</link>
+        <guid isPermaLink="true">http://localhost:4000/frankfurt.html</guid>
         
         
       </item>
@@ -46,8 +46,8 @@
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://dev.leancamp.net/amsterdam.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/amsterdam.html</guid>
+        <link>http://localhost:4000/amsterdam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/amsterdam.html</guid>
         
         
       </item>
@@ -59,8 +59,8 @@
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Aug 2016 00:00:00 +0200</pubDate>
-        <link>http://dev.leancamp.net/teheran.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/teheran.html</guid>
+        <link>http://localhost:4000/teheran.html</link>
+        <guid isPermaLink="true">http://localhost:4000/teheran.html</guid>
         
         
       </item>
@@ -73,8 +73,8 @@
 &lt;p&gt;&lt;strong&gt;Das Leancamp ist die Un-Konferenz auf der sich Gründungs-interessierte, Startups und Unternehmen ein Tag lang über Erfahrungen und neue Methoden im Bereich Entrepreneurship, Innovation, (Lean) Startup und Wachstum intensiv austauschen &amp;amp; wertvolles Feedback erhalten – mit dem Ziel, deine Idee oder Startup schneller auf das nächste Level zu bringen!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://dev.leancamp.net/stuttgart.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/stuttgart.html</guid>
+        <link>http://localhost:4000/stuttgart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stuttgart.html</guid>
         
         
       </item>
@@ -86,8 +86,8 @@
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://dev.leancamp.net/rotterdam.html</link>
-        <guid isPermaLink="true">http://dev.leancamp.net/rotterdam.html</guid>
+        <link>http://localhost:4000/rotterdam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rotterdam.html</guid>
         
         
       </item>
