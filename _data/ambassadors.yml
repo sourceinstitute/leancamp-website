@@ -29,10 +29,23 @@ Dan Toma:
 Daniel Bartel:
     name: Daniel Bartel
     email: "hello@daniel-bartel.de"
-    photo: "https://pbs.twimg.com/profile_images/668189739342802944/vKK2of9K_200x200.jpg"
+
+# Brussels
 
 Carl Danneels:
     name: Carl Danneels
     email: ""
     photo: "/img/CarlDanneels.jpg"
     bio: "Expert in Lean Start-up & Scale-up implementation. He is a coach at Fit4Start and Senior Advisor of Participium. Carl is also an entrepreneur himself, owning a real estate chain of sustainable apartments that have been designed & marketed according to Lean Startup principles."
+
+Els Descheemaeker:
+    name: Els Descheemaeker
+    email: ""
+    photo: "/img/ElsDescheemaeker.jpg"
+    bio: "Els has many years of experience in defining strategies, finding BUSINESS/CUSTOMER VALUE and creating IMPACT in an AGILE / HANDS ON approach and this in different sectors in TRANSFORMATION, driven by INNOVATION incubation & acceleration."
+
+Nick Boucart:
+    name: Nick Boucart
+    email: ""
+    photo: "/img/NickBoucart.jpg"
+    bio: "Curator at Hockey Stick Weekly and coach at Sirris. My background as a developer helps me understand the technical implications of putting a software product in the market."
