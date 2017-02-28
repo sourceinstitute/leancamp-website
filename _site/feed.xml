@@ -6,18 +6,23 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 09:17:24 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 09:17:24 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2017 14:08:50 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2017 14:08:50 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Leancamp Brussels</title>
         <description>&lt;h2 id=&quot;focus-on-lean-startup-design-thinking-lean-ux-and-agile-development&quot;&gt;Focus on Lean Startup, Design Thinking, Lean UX and Agile Development&lt;/h2&gt;
 
-&lt;p&gt;LeanCamp is an Open Conference where the worlds of Lean Startup, design thinking, lean innovation, agile and customer experience are connected. This format is famous across the world for its unleashing of crossovers, knowledge and creating a vibe in the startup community. And now for the first time in Belgium! Let’s show that we care about a more entrepreneurial spirit in Belgium and join Lean Camp or at least share this event! It is an UNCONFERENCE meaning that you are responsible for what you get out of it. You set the agenda.&lt;/p&gt;
+&lt;p&gt;LeanCamp is an Open Conference where the worlds of &lt;strong&gt;Lean Startup, design thinking, lean innovation, agile and customer experience&lt;/strong&gt; are connected. This format is famous across the world for its unleashing of crossovers, knowledge and creating a vibe in the startup community. And now for the first time in Belgium! Let’s show that we care about a more entrepreneurial spirit in Belgium and join Lean Camp or at least share this event! It is an UNCONFERENCE meaning that you are responsible for what you get out of it. You set the agenda.&lt;/p&gt;
 
-&lt;p&gt;Leancamp is organized in cooperation with Lean Startup Circle Belgium
+&lt;p&gt;Leancamp is organized in cooperation with:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lean Startup Circle Belgium&lt;/strong&gt;
 &lt;img src=&quot;/img/LeanStartupCircleBXL_Logo.jpg&quot; alt=&quot;LSC BXL logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antwerp Business Community&lt;/strong&gt;
+&lt;img src=&quot;/img/abc-logo.png&quot; alt=&quot;ABC logo&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/brussels.html</link>
