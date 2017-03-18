@@ -132,12 +132,6 @@ function formboxCallback(entry) {
         <h3 class="post-time">From 10:00 to 18:00</h3>
         <br>
           
-              
-              <div>
-                <a href='https://www.eventbrite.com/e/leancamp-brussels-tickets-31233617591' target="_blank" class="btn btn-primary btn-lg" style="color: white;">Buy Tickets</a>
-              </div>
-              
-          
         
       </div>
    </div>
@@ -167,9 +161,35 @@ function formboxCallback(entry) {
     </div>
     <div class="col-sm-6">
         
-              
-              <!--Ticket link has been moved, so don't show anything here-->
-              
+
+          <div class="row" >
+            <h3>This event ended, stay in touch with us on the next one!</h3>
+          </div>
+          <div class="row" >
+            <div class="hidden row" data-behaviour="contact-form-thank-you">
+  <p class="lead text-muted" >
+  Thanks you for your interest.<br>
+  We'll be in touch soon,<br>
+  Leancamp Team
+  </p>
+</div>
+
+          </div>
+          <form class="form-horizontal" data-behaviour="contact-form" action="https://formbox.es/ur7fa7Zq3wuDX8G4gn2Xwegv" method="POST">
+            <input type="hidden" name="subject" value="Interest in attending">
+            <div class="row">
+              <input class="form-control" type="text" name="name" placeholder="Your name">
+            </div>
+            <div class="row">
+              <input class="form-control" type="text" name="email" placeholder="Your email">
+            </div>
+            
+              <input class="form-control" type="hidden" name="event" value="Leancamp Brussels">
+            
+            <div class="row">
+              <button class="btn btn-primary btn-lg" name="button" type="submit">Keep me updated!</button>
+            </div>
+          </form>
         
       </div>
     </div>
