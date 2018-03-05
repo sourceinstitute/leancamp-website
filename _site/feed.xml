@@ -6,9 +6,25 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Mar 2017 14:17:29 +0100</pubDate>
-    <lastBuildDate>Sat, 18 Mar 2017 14:17:29 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 16:43:45 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 16:43:45 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Leancamp Belgrade</title>
+        <description>&lt;h2 id=&quot;using-lean-to-scale-globally&quot;&gt;Using Lean to scale globally&lt;/h2&gt;
+
+&lt;p&gt;Leancamp returns to Belgrade, with a theme of local heroes who’ve built international businesses using Lean.&lt;/p&gt;
+
+&lt;p&gt;We’ll hear from Balkam startups that have scaled into major global markets, sales teams that use Agile to collaborate, and blockchain founders that build their support communities around the world.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 05 May 2018 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/belgrade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/belgrade.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>4rd LeanCamp Frankfurt</title>
@@ -16,7 +32,7 @@
 
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Mar 2017 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/frankfurt.html</link>
         <guid isPermaLink="true">http://localhost:4000/frankfurt.html</guid>
         
@@ -37,7 +53,7 @@
 &lt;p&gt;&lt;strong&gt;Antwerp Business Community&lt;/strong&gt;
 &lt;img src=&quot;/img/abc-logo.png&quot; alt=&quot;ABC logo&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/brussels.html</link>
         <guid isPermaLink="true">http://localhost:4000/brussels.html</guid>
         
@@ -50,7 +66,7 @@
 
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 25 Nov 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/frankfurt.html</link>
         <guid isPermaLink="true">http://localhost:4000/frankfurt.html</guid>
         
@@ -63,7 +79,7 @@
 
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 19 Nov 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/amsterdam.html</link>
         <guid isPermaLink="true">http://localhost:4000/amsterdam.html</guid>
         
@@ -76,7 +92,7 @@
 
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 26 Aug 2016 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 26 Aug 2016 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/teheran.html</link>
         <guid isPermaLink="true">http://localhost:4000/teheran.html</guid>
         
@@ -90,7 +106,7 @@
 
 &lt;p&gt;&lt;strong&gt;Das Leancamp ist die Un-Konferenz auf der sich Gründungs-interessierte, Startups und Unternehmen ein Tag lang über Erfahrungen und neue Methoden im Bereich Entrepreneurship, Innovation, (Lean) Startup und Wachstum intensiv austauschen &amp;amp; wertvolles Feedback erhalten – mit dem Ziel, deine Idee oder Startup schneller auf das nächste Level zu bringen!&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Jul 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 23 Jul 2016 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/stuttgart.html</link>
         <guid isPermaLink="true">http://localhost:4000/stuttgart.html</guid>
         
@@ -103,7 +119,7 @@
 
 &lt;p&gt;LeanCamp is an OpenSpace Conference for founders and innovators. It provides a platform to share experience and knowledge about up-to-date methods around product development.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Jun 2016 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 03 Jun 2016 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/rotterdam.html</link>
         <guid isPermaLink="true">http://localhost:4000/rotterdam.html</guid>
         
